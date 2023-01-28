@@ -1,2 +1,10 @@
 # Natural_Language_Processing
-The repository of NLP tutorials. You can find video tutorials on my YouTube channel: https://youtube.com/playlist?list=PLE_KQmLMvwwNt9amp4jSxPN1Bjj3lpWRA
+
+Learn and Practice
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow " width="70" height="70"/>&nbsp;
+</div>
