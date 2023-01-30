@@ -9,7 +9,7 @@ Learn and Practice
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow " width="70" height="70"/>&nbsp;
 </div>
 
-and 
-more resoure :
+ 
+- More resoure :
 <a href='https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp'>Machine Learning University: Accelerated Natural Language Processing Class</a>
 
