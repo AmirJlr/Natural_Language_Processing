@@ -12,8 +12,11 @@ Learn and Practice
  
 - More resoure :
 <ul>
+
+ <li>https://www.deeplearning.ai/resources/natural-language-processing/</li>
+ 
  <li><a href='https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp'>Machine Learning University: Accelerated Natural Language Processing Class</a>
  </li>
  
- <li>https://www.deeplearning.ai/resources/natural-language-processing/</li>
+
 </ul>
